@@ -1,7 +1,6 @@
 # ML
-Big Data mining and analysis course code
+Course codes and study notes for Big Data mining and analysis.
 - iris data
-- 
 ## Classification
   - KNN
   - SVM
@@ -11,3 +10,10 @@ Big Data mining and analysis course code
   - k-means
   - Hierarchical
 ## Regression
+  - Linear
+  - Polynomial
+  - Lasso
+  - Ridge
+  - ElasticNet
+  - GBDT
+  - SGDR
