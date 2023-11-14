@@ -1,12 +1,13 @@
 # ML
 Big Data mining and analysis course code
-
-## Classification
 - iris data
+- 
+## Classification
   - KNN
   - SVM
   - Decision Tree
   - RandomForest
 ## Clustering
-
+  - k-means
+  - Hierarchical
 ## Regression
